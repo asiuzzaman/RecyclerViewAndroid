@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="country_desc">
+        <item>Aussies are very helpful</item>
+        <item>Bangladeshies  are very selfish</item>
+        <item>chaina are very hardworker</item>
+        <item>japanies  are very decipline</item>
+        <item>Indian are very Dirty</item>
+    </string-array>
+
+    <string-array name="countryName">
+        <item> Australia</item>
+        <item> Bangladesh</item>
+        <item> china</item>
+        <item> japan</item>
+        <item> India</item>
+    </string-array>
+
+</resources>
